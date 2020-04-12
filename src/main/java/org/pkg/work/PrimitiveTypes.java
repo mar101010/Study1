@@ -27,6 +27,7 @@ public class PrimitiveTypes {
         System.out.println("My float value is "+myFloat);
         System.out.println("My double value is "+myDouble);
 
+        double masterVar;
         double poundsNum=8.56;
         double kgNum=poundsNum*0.45359237d;
         System.out.println(kgNum);
